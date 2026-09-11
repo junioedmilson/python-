@@ -1,5 +1,5 @@
-# aula 07 Operadores Aritméticos
-# video https://www.youtube.com/watch?v=Vw6gLypRKmY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=13
+# Aula 07 - Operadores Aritméticos
+# Video https://www.youtube.com/watch?v=Vw6gLypRKmY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=13
 # adição, subtração, multiplicação, divisão, divisão inteira, potência, resto da divisão, raiz quadrada
 n1 = int(input('diga um numero: '))
 n2 = int(input('diga outro numero: '))
